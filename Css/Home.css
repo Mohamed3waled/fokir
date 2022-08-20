@@ -435,6 +435,7 @@ li {
 
 .parent-card-section-4 .img-container .parent-img img  {
     width: 96%;
+    border-radius: 5px;
 }
 .parent-img {
     position: relative;
@@ -454,6 +455,7 @@ li {
     height: 99%;
     opacity: 0;
     transition: all .6s;
+    border-radius: 5px;
 }
 
 .img-container .parent-img:hover .over-lay {
